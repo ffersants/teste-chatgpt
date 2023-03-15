@@ -1,0 +1,3 @@
+O sistema PROKED.MENT é utilizado para a criação, visualização e gerenciamento de processos eletrônicos desenvolvidos por uma instituição de autoridade policial e que têm como objetivo cuminarem em autoridades jurídicas do âmbito judiciário legislativo para averiguação de irregularidades e definição de penas.
+Uma pasta presente no sistema deve ser gerada a partir de um documento de verdade crime, tal como boleto, fatura cartão, cheque e comprovante de residência.
+Enquanto o PSOTOLO é um outro sistema que auxilia o PROKED.MENT para organização de documentos de verdade crime e demais artefatos que compõem um processo eletrônico. Ele fica responsável de garantir o histórico, a integridade, a visibiliade e/ou restrição desses membros do processo eletrônico.
